@@ -1,6 +1,6 @@
 # SGX-FL: Secure Federated Learning with Malicious Client Detection
 
-This is a federated learning framework with malicious client detection capabilities, extracted from the oldXFL project.
+Test file, please do not call.
 
 ## Project Structure
 
